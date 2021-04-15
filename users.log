@@ -1,0 +1,3 @@
+kur
+04/01/21 22:53:47
+rzlatkov :0        ?xdm?  /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
